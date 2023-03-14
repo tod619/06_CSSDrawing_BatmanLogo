@@ -72,3 +72,41 @@ body {
     right: 68px;
     transform: rotate(15deg);
 }
+
+.o5 {
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    background-color: #fdff00;
+    border-radius: 50%;
+    top: 0;
+    left: 57px;
+}
+
+.sq1 {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: #fdff00;
+    top: 0;
+    left: 74px;
+}
+
+.o6 {
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    background-color: #fdff00;
+    border-radius: 50%;
+    top: 0;
+    right: 57px;
+}
+
+.sq2 {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: #fdff00;
+    top: 0;
+    right: 74px;
+}
