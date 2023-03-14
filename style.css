@@ -14,4 +14,16 @@ body {
     background-color: #fdff00;
     border-radius: 50%;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    position: absolute;
+    width: 212px;
+    height: 112px;
+    background-color: #000;
+    border-radius: 50%;
+    
 }
