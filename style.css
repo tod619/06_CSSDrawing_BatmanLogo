@@ -110,3 +110,14 @@ body {
     top: 0;
     right: 74px;
 }
+
+.ears {
+    position: absolute;
+    top: 0;
+    left: 95px;
+    border-bottom: 12px solid #fdff00;
+    border-left: 6px solid #000;
+    border-right: 6px solid #000;
+    width: 11px;
+    transform: rotate(180deg);
+}
